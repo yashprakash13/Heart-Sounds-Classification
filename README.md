@@ -6,6 +6,6 @@ The dataset is comprised of two directories:
 2. Validation
 Each contain four subdirectories consisting of four cateogories, 3 types of abnormal heart-sounds and 1 normal heart sound.
 
-# There are two steps for the classification model to work:
+## There are two steps for the classification model to work:
 Step 1. Conversion of .wav audio files into spectrogram image .png files.
 Step 2. Classification of the spectrograms formed using the CNN model.
